@@ -56,3 +56,32 @@ video : https://youtu.be/ldpp3K5qx4I?si=kPZHQWMKYAHBqqYB
 ## ✅ Checkpoint Exam
 
 <img width="851" height="568" alt="checkpoint exam" src="https://github.com/Kantavit447/Personal-Portfolio_Network/blob/main/Cisco%20Networking%20Academy/check%20point%20exam.png" />
+
+---
+
+## 🧐 สิ่งที่ได้เรียนรู้
+
+### 🌐 ด้าน Computer Networks
+
+| หัวข้อ                 | รายละเอียด                                     |
+| :--------------------- | :--------------------------------------------- |
+| พื้นฐานเครือข่าย       | โครงสร้าง Topology, OSI Model, TCP/IP          |
+| โปรโตคอล               | TCP vs UDP ความแตกต่างและการใช้งาน             |
+| การออกแบบเครือข่าย     | วาด Topology และจำลองด้วย Cisco Packet Tracer  |
+| LAB ปฏิบัติการ 5 ครั้ง | Configure อุปกรณ์เครือข่าย เช่น Router, Switch |
+
+### 🎓 ด้าน Cisco Networking Academy
+
+| หัวข้อ          | รายละเอียด                               |
+| :-------------- | :--------------------------------------- |
+| Certificate     | ผ่านหลักสูตรออนไลน์จนได้รับใบเกียรติบัตร |
+| Checkpoint Exam | ผ่านการทดสอบความรู้กลางหลักสูตร          |
+
+### 💻 ด้านเครื่องมือและทักษะ
+
+| เครื่องมือ          | การใช้งาน                                        |
+| :------------------ | :----------------------------------------------- |
+| Cisco Packet Tracer | จำลองและ config เครือข่าย                        |
+| Git & GitHub        | Version control, จัดการ repo, แก้ merge conflict |
+| Markdown            | เขียน README และเอกสารด้วย `.md`                 |
+| VS Code             | Editor หลักในการทำงาน                            |
