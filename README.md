@@ -43,7 +43,7 @@ Link to work : [week01-week10](https://github.com/Kantavit447/Personal-Portfolio
 ### 🚀 Final Project
 
 github : [Final Project Repository](https://github.com/Kantavit447/Personal-Portfolio_Network/blob/main/Final%20Project/Link%20to%20Final%20project.txt)  
-video : [ใส่ลิงก์วิดีโอที่นี่]
+video : https://youtu.be/ldpp3K5qx4I?si=kPZHQWMKYAHBqqYB
 
 ---
 
